@@ -1,0 +1,100 @@
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AforgeLEDAngleFinder.exe.config
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AforgeLEDAngleFinder.exe
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AforgeLEDAngleFinder.pdb
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Controls.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.DebuggerVisualizers (2010).dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Fuzzy.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Genetic.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.Formats.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.IPPrototyper.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.MachineLearning.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Math.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Neuro.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Lego.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Surveyor.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.TeRK.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.DirectShow.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.FFMPEG.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Kinect.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.VFW.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Ximea.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Vision.dll
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Controls.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Fuzzy.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Genetic.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.Formats.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.MachineLearning.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Math.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Neuro.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Lego.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Surveyor.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.TeRK.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.DirectShow.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.FFMPEG.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Kinect.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.VFW.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Ximea.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Vision.xml
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.Form1.resources
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.Properties.Resources.resources
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.csproj.GenerateResource.Cache
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.exe
+c:\users\potato1\documents\visual studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.pdb
+C:\Users\potato1\Documents\Visual Studio 2013\Projects\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.csprojResolveAssemblyReference.cache
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AforgeLEDAngleFinder.exe.config
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.exe
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.pdb
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AforgeLEDAngleFinder.exe
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AforgeLEDAngleFinder.pdb
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Controls.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.DebuggerVisualizers (2010).dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Fuzzy.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Genetic.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.Formats.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.IPPrototyper.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.MachineLearning.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Math.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Neuro.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Lego.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Surveyor.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.TeRK.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.DirectShow.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.FFMPEG.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Kinect.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.VFW.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Ximea.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Vision.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Controls.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Fuzzy.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Genetic.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Imaging.Formats.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.MachineLearning.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Math.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Neuro.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Lego.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.Surveyor.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Robotics.TeRK.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.DirectShow.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.FFMPEG.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Kinect.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.VFW.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Video.Ximea.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\AForge.Vision.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.csprojResolveAssemblyReference.cache
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.Form1.resources
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.Properties.Resources.resources
+E:\drive\AforgeLEDAngleFinder\AforgeLEDAngleFinder\obj\Release\AforgeLEDAngleFinder.csproj.GenerateResource.Cache
